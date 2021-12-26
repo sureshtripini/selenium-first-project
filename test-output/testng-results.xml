@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-26T18:19:36 GMT" name="Default suite" finished-at="2021-12-26T18:19:55 GMT" duration-ms="18870">
+    <groups>
+    </groups>
+    <test started-at="2021-12-26T18:19:36 GMT" name="Default test" finished-at="2021-12-26T18:19:55 GMT" duration-ms="18870">
+      <class name="com.selenium.practice.WillisTest">
+        <test-method signature="testScenario()[pri:0, instance:com.selenium.practice.WillisTest@3d5c822d]" started-at="2021-12-26T18:19:36 GMT" name="testScenario" finished-at="2021-12-26T18:19:55 GMT" duration-ms="18835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScenario -->
+      </class> <!-- com.selenium.practice.WillisTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
