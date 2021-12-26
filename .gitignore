@@ -1,0 +1,6 @@
+/target/
+.classpath
+.classpath
+.settings/org.eclipse.jdt.core.prefs
+target/classes/com/selenium/practice/Base.class
+target/test-classes/com/selenium/practice/WillisTest.class
